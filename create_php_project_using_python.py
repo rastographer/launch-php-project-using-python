@@ -36,13 +36,6 @@ files = {
 # Content for db.php file
 db_content = """<?php
 
-// Production Env values
-
-// $servername = "localhost";
-// $username = "afrishar_remotasks";
-// $password = "rzcb5lAlf-GH#0n~O8";
-// $database = "afrishar_remotasks";
-
 // Local Env values
 
 $servername = "127.0.0.1";
